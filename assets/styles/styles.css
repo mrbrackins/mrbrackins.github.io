@@ -1,0 +1,12 @@
+$truedup: blue;
+p {
+  color: $truedup;
+  columns: 300px 2;
+
+}
+
+.box {
+  a {
+    display: block;
+  }
+}
